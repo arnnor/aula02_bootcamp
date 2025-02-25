@@ -2,6 +2,6 @@
 num1 = float(input("Digite o primeiro número flutuante: "))
 num2 = float(input("Digite o segundo número flutuante: "))
 
-media = (num1 + num2)/2
+média = (num1 + num2)/2
 
-print("A média é:", media)
+print("A média é:", média)
