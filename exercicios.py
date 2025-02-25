@@ -20,14 +20,11 @@
 # 12. Crie um programa que receba o nome completo do usuário e imprima o nome com todas as letras minúsculas.
 # 13. Desenvolva um programa que peça ao usuário para inserir uma frase e, em seguida, imprima esta frase sem espaços em branco no início e no final.
 # 14. Faça um programa que peça ao usuário para digitar uma data no formato "dd/mm/aaaa" e, em seguida, imprima o dia, o mês e o ano separadamente.
-
-input
-
 # 15. Escreva um programa que concatene duas strings fornecidas pelo usuário.
 
 # #### Booleanos (`bool`)
 
-# 16. Escreva um programa que avalie duas expressões booleanas inseridas pelo usuário e retorne o resultado da operação AND entre elas.
+# 16. Escreva um programa que avalie duas expressoes booleanas inseridas pelo usuário e retorne o resultado da operação AND entre elas.
 # 17. Crie um programa que receba dois valores booleanos do usuário e retorne o resultado da operação OR.
 # 18. Desenvolva um programa que peça ao usuário para inserir um valor booleano e, em seguida, inverta esse valor.
 # 19. Faça um programa que compare se dois números fornecidos pelo usuário são iguais.
